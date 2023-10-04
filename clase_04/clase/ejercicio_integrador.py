@@ -1,6 +1,9 @@
 """
 Ejercicio integrador
-Crear una función llamada filtrar_pares que tome una lista de números como parámetro y retorne una nueva lista que contenga solo los números pares de la lista original. Deberás utilizar un bucle for para iterar sobre la lista original y una lista para almacenar los números pares
+Crear una función llamada filtrar_pares que tome una lista de números 
+como parámetro y retorne una nueva lista que contenga solo los números
+ pares de la lista original. Deberás utilizar un bucle for para iterar sobre 
+ la lista original y una lista para almacenar los números pares
 """
 
 def filtrar_pares(numeros):

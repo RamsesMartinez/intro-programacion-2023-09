@@ -5,7 +5,7 @@
 - modifica el último número por 100.
 """
 
-numeros = [10, 20, 30, 40, 50]
+numeros = [10, 20, 30, 40, 50,10, 20, 30, 40, 50,10, 20, 30, 40, 50,10, 20, 30, 40, 50,10, 20, 30, 40, 50]
 numeros.append(60)
 numeros.pop(2)
 numeros[-1] = 100

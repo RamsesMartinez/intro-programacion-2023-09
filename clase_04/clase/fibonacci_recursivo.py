@@ -1,5 +1,6 @@
 """
-Diseña un programa que genere una secuencia de números Fibonacci utilizando una función recursiva.
+Diseña un programa que genere una secuencia de números Fibonacci
+utilizando una función recursiva.
 """
 
 def fibonacci_recursivo(posicion):

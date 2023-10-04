@@ -1,11 +1,19 @@
 """
-Diseña un programa que genere una secuencia de números Fibonacci utilizando una función recursiva.
+Diseña un programa que genere una secuencia de números Fibonacci
+ utilizando una función recursiva.
 """
 
 def fibonacci_iterativo(posicion):
+    """
+    0, 1, 1, 2, 3, 5, 8, 13, 21...
+    """
     actual = 0
     siguiente = 1
     for _ in range(posicion + 1):
+        """
+        range(10 + 1) -> 0 - 10
+
+        """
         temporal = actual
         actual = siguiente
         siguiente = siguiente + temporal
